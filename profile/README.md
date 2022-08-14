@@ -1,4 +1,4 @@
 # Carroted
-Carroted makes games, software, websites and more.
+Carroted is a nonprofit organization developing free and open-source software, games, animation, websites and more.
 
-Visit our website! https://www.carroted.ca/
+https://carroted.ca/
