@@ -1,4 +1,4 @@
-# [<img src="https://www.carroted.ca/media/logo.svg" width="200px" />](https://carroted.ca)
+# [<img src="https://www.carroted.ca/media/logo.svg" width="200px" alt="Carroted Logo" />](https://carroted.ca)
 Carroted is a nonprofit organization developing free and open-source software, games, animation, websites and more.
 
 Carroted was started in 2021.
