@@ -3,6 +3,6 @@ Carroted is a nonprofit organization developing free and open-source software, g
 
 Carroted was started in 2021.
 
-We are currently working on [Pylon Pixel 2](https://carroted.ca/pylon-pixel-2), [From Sunsteel](https://github.com/Carroted/FromSunsteel) and [ULVS](https://github.com/Carroted/ulvs-graphics).
+We are currently working on [Pylon Pixel 2](https://carroted.ca/pylon-pixel-2) and [ULVS](https://github.com/Carroted/ulvs-graphics).
 
 https://carroted.ca/
