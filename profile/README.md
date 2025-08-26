@@ -1,4 +1,4 @@
-# [<img src="https://raw.githubusercontent.com/Carroted/.github/main/logo.svg" width="200px" alt="Carroted Logo" />](https://github.com/Carroted)
+# [<img src="https://carroted.org/assets/logo.svg" height="50px" alt="Carroted Logo" />](https://carroted.org/)
 
 We are currently working on **[Simulo](https://discord.gg/AUzmquMkB6)**.
 
